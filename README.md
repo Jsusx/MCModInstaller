@@ -1,1 +1,1 @@
-# ForgeInstaller
+# ModPackInstaller
