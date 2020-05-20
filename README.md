@@ -1,1 +1,1 @@
-# ModPackInstaller
+# ModInstaller
