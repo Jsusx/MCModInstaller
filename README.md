@@ -4,10 +4,10 @@
 
 - Step 1:
 
-<a href="https://imgflip.com/gif/424wj3"><img src="https://i.imgflip.com/424wj3.gif" title="MCModInstaller"/></a>
+<a href="https://resources.jsusx.com/MCModInstaller/gifs/ModInstaller1GIF.gif?view"><img src="https://resources.jsusx.com/MCModInstaller/gifs/ModInstaller1GIF.gif" title="MCModInstaller1"/></a>
 
 - Step 2:
 
-<a href="https://imgflip.com/gif/428z0k"><img src="https://i.imgflip.com/428z0k.gif" title="MCModInstaller2"/></a>
+<a href="https://resources.jsusx.com/MCModInstaller/gifs/ModInstaller2GIF.gif?view"><img src="https://resources.jsusx.com/MCModInstaller/gifs/ModInstaller2GIF.gif" title="MCModInstaller2"/></a>
 
 
